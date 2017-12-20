@@ -8,6 +8,6 @@ This software should be considered [CharityWare](http://charityware.info/).
 
 - It is entirely voluntary and unless you inform me (please do - see below) I will never know if you made a donation.
 
-Put simply, a little currency to charity is much better than a lot of currency to me.
+- Put simply, a little currency to charity is much better than a lot of currency to me.
 
 To let me know of any donations, simply click [here](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues) and leave as much or as little information as you like.
