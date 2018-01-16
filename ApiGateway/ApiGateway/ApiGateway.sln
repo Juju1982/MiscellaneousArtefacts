@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2020
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebServiceHelper", "WebServiceHelper.csproj", "{C3ACCB53-BFF4-4F96-A9F6-65D8DA372A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway.csproj", "{C3ACCB53-BFF4-4F96-A9F6-65D8DA372A89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

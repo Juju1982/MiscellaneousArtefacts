@@ -1,9 +1,7 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Http;
-using System;
+﻿using System;
 using System.Threading.Tasks;
 
-namespace GregWebServices
+namespace ApiGateway
 {
     public class ErrorHandlingMiddleware
     {
@@ -27,8 +25,8 @@ namespace GregWebServices
 
         private static Task HandleException(HttpContext context, Exception exception)
         {
-            var code = WebServiceHelper.GetStatusCodeForException(exception);
-            var result = WebServiceHelper.GetErrorResponse(exception);
+            var code = ApiGateway.GetStatusCodeForException(exception);
+            var result = ApiGateway.GetErrorResponse(exception);
             context.Response.ContentType = "application/json";
             context.Response.StatusCode = (int)code;
             return context.Response.WriteAsync(result);

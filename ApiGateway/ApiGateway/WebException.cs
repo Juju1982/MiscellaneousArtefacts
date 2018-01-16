@@ -1,12 +1,8 @@
-﻿using Newtonsoft.Json;
-using System.Collections.Generic;
-using System;
-using System.Runtime;
-using System.Runtime.Serialization;
+﻿using System;
 using System.Net;
 using System.Text;
 
-namespace GregWebServices
+namespace ApiGateway
 {
     public class WebException : Exception
     {

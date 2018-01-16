@@ -1,15 +1,11 @@
-﻿using System.Net.Http;
+﻿using System;
+using System.Net;
 using System.Text;
 using System.Threading.Tasks;
-using Newtonsoft.Json;
-using System;
-using System.Net;
-using System.Collections.Generic;
-using Newtonsoft.Json.Serialization;
 
-namespace GregWebServices
+namespace ApiGateway
 {
-    public partial class WebServiceHelper : IWebServiceHelper
+    public partial class ApiGateway : IApiGateway
     {
         private readonly HttpClient client = new HttpClient(new HttpClientHandler()
         {
@@ -20,18 +16,18 @@ namespace GregWebServices
         {
             ContractResolver = new CamelCasePropertyNamesContractResolver()
         };
-        public WebServiceHelper(string baseUrl) : this(baseUrl, 120) { }
+        public ApiGateway(string baseUrl) : this(baseUrl, 120) { }
 
         /// <param name="baseUrl"></param>
         /// <param name="timeout">Timeout (seconds)</param>
-        public WebServiceHelper(string baseUrl, int timeout)
+        public ApiGateway(string baseUrl, int timeout)
         {
             if (!baseUrl.EndsWith("/")) { baseUrl += "/"; };
             client.BaseAddress = new Uri(baseUrl, UriKind.Absolute);
             client.Timeout = TimeSpan.FromSeconds(timeout);
         }
 
-        public IWebServiceHelper AddOptions(WebServiceHelperOptions options)
+        public IApiGateway AddOptions(ApiGatewayOptions options)
         {
             if (options == null)
             {

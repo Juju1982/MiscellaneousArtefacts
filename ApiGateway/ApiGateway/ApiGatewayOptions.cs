@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace GregWebServices
+namespace ApiGateway
 {
-    public class WebServiceHelperOptions
+    public class ApiGatewayOptions
     {
         public Dictionary<string, string> Headers { get; set; }
     }

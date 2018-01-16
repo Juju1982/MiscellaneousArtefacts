@@ -1,9 +1,8 @@
-﻿using System.Net.Http;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 
-namespace GregWebServices
+namespace ApiGateway
 {
-    public interface IWebServiceHelper
+    public interface IApiGateway
     {
         //T Call<T>(HttpMethod verb, string url, object obj);
         Task<T> CallAsync<T>(HttpMethod verb, string url, object obj);
