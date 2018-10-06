@@ -24,6 +24,7 @@ Never you mind.
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/fl77g7npbyb91h8r?svg=true)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/MiscellaneousArtefacts.svg)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts/build/tests)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_apis/build/status/MiscellaneousArtefacts)](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_build/latest?definitionId=)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
