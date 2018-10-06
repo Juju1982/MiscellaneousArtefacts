@@ -4,6 +4,8 @@ Never you mind.
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
+[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
