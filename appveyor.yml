@@ -9,12 +9,12 @@ environment:
 install:
     - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-    - cmd: nuget restore ApiGateway/ApiGateway/ApiGateway.sln
+    - cmd: nuget restore MiscellaneousArtefacts/MiscellaneousArtefacts.sln
     - choco install opencover.portable
     - choco install codecov
     - SonarScanner.MSBuild.exe begin /k:"MiscellaneousArtefacts" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
-    project: ApiGateway/ApiGateway/ApiGateway.sln
+    project: MiscellaneousArtefacts/MiscellaneousArtefacts.sln
     verbosity: minimal
 after_build:
     - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
