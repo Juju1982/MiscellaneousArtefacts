@@ -1,8 +1,8 @@
 Never you mind. 
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
+<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
 
 [Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
 
@@ -13,20 +13,20 @@ Never you mind.
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/pulls)
-[![Sonar&metric=alert_status](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=alert_status)](https://sonarcloud.io/dashboard?id=MiscellaneousArtefacts)
-[![Sonar&metric=bugs](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=bugs)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=bugs)
-[![Sonar&metric=code_smells](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=code_smells)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=code_smells)
-[![Sonar&metric=coverage](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=coverage)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=Coverage)
-[![Sonar&metric=duplicated_lines_density](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=duplicated_lines_density)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=duplicated_lines)
-[![Sonar&metric=ncloc](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=ncloc)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=ncloc)
-[![Sonar&metric=reliability_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=reliability_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=reliability_rating)
-[![Sonar&metric=security_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=security_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=security_rating)
-[![Sonar&metric=sqale_index](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_index)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_index)
-[![Sonar&metric=sqale_rating](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=sqale_rating)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=sqale_rating)
-[![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=MiscellaneousArtefacts&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=MiscellaneousArtefacts&metric=vulnerabilities)
-[![Appveyor Build status](https://ci.appveyor.com/api/projects/status/fl77g7npbyb91h8r?svg=true)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts)
-[![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/MiscellaneousArtefacts.svg)](https://ci.appveyor.com/project/GregTrevellick/MiscellaneousArtefacts/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_apis/build/status/MiscellaneousArtefacts)](https://gregtrevellick.visualstudio.com/MiscellaneousArtefacts/_build/latest?definitionId=)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
