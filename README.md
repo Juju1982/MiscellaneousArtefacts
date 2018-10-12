@@ -9,6 +9,7 @@ Never you mind.
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts/badge)](https://www.codefactor.io/repository/github/GregTrevellick/MiscellaneousArtefacts)
+[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/report?token=&branch=master)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/MiscellaneousArtefacts/branch/master/summary)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![Github language count](https://img.shields.io/github/languages/count/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts)
 [![GitHub issues](https://img.shields.io/github/issues-raw/GregTrevellick/MiscellaneousArtefacts.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/issues)
@@ -27,6 +28,7 @@ Never you mind.
 
 
 
+[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/MiscellaneousArtefacts/status?token=)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/MiscellaneousArtefacts/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
