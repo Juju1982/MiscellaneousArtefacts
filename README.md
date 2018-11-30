@@ -1,11 +1,8 @@
 Never you mind. 
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
-<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
-
-[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
-
+<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20ReadMeSynchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/MiscellaneousArtefacts?branch=master)](https://bettercodehub.com/results/GregTrevellick/MiscellaneousArtefacts)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bf237f7393d4c9ea544206278ff51a8)](https://www.codacy.com/project/gtrevellick/MiscellaneousArtefacts/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/MiscellaneousArtefacts&amp;utm_campaign=Badge_Grade_Dashboard)
 
@@ -38,5 +35,8 @@ Never you mind.
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
 [![Charity Ware](https://img.shields.io/badge/charity%20ware-thank%20you-brightgreen.svg)](https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware)
 [![License](https://img.shields.io/github/license/gittools/gitlink.svg)](/LICENSE.txt)
+
+[Subscribe](https://github.com/GregTrevellick/MiscellaneousArtefacts/subscription) to receive notificatons.
+
 <!--BadgesEND-->
 
